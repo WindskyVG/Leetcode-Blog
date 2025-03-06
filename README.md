@@ -6,9 +6,6 @@ Welcome to **Leetcode Blog**, where I document my daily progress in solving Leet
 
 ## 📂 Folder Structure
 
-Leetcode-Blog/ │── .obsidian/ # Obsidian configuration files │── Templates/ # Markdown templates for daily logs & problem notes │── Array/ # Folder for array-related problems │── Day_1/ # Daily log for Day 1 │── C++.md # Notes on C++ coding techniques │── README.md # This file
-
-
 - 📂 **Templates/** → Contains reusable templates for logging daily progress and problem breakdowns.
 - 📂 **Array/** → Organizes questions related to arrays.
 - 📜 **Day_X.md** → Daily learning logs, tracking the problems I solved and key takeaways.
