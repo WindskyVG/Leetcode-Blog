@@ -2,7 +2,7 @@
 
 ## 🔍 Problem Statement
 - **Category:**  
-- **Problem:**
+- **Problem:** 
 - **Difficulty:**  <% tp.system.suggester(["Easy", "Medium", "Hard"], ["Easy", "Medium", "Hard"]) %> 
 
 ## 🧠 Initial Thoughts
