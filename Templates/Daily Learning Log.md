@@ -8,11 +8,11 @@
   - [ ] 
 
 ## 🔢 Questions Solved
-| #   | Problem Name | Difficulty | Link |
-| --- | ------------ | ---------- | ---- |
-| 1   |              |            |      |
-| 2   |              |            |      |
-| 3   |              |            |      |
+| #   | Problem | Difficulty | Category |
+| --- | ------- | ---------- | -------- |
+| 1   |         |            |          |
+| 2   |         |            |          |
+| 3   |         |            |          |
 
 ## 🏆 Key Takeaways
 - **New concepts learned**:  
